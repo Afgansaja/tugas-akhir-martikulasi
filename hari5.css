@@ -1,0 +1,34 @@
+.container{
+    display:flex;
+    gap: 10px;
+}
+.static{
+    background-color: blue;
+    width: 400px;
+    height: 300px;
+    /*postion;static;*/
+}
+.relative{
+    background-color: red;
+    width: 400px;
+    height: 300px;
+    /*postion;relative;*/
+}
+.absolute{
+    background-color: green;
+    width: 400px;
+    height: 300x;
+    /*postion;absolute;*/
+}
+.fixed{
+    background-color: black;
+    width: 400px;
+    height: 300px;
+    /*postion;fixed;*/
+}
+.sticky{
+    background-color: yellow;
+    width: 400px;
+    height: 300px;
+    /*postion;sticky;*/
+}

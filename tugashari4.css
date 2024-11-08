@@ -1,0 +1,107 @@
+body{
+    display: flex;
+    gap: 20px;
+  }
+  .bg {
+    background-image:url(https://media.istockphoto.com/id/482524430/id/foto/latar-belakang-api-simbol-neraka-dan-inferno.jpg?s=612x612&w=0&k=20&c=soc8bDPPlBV5fGHaAznxTbRiA1aYjphqdYbIGl8xjZo=);
+    width: 500px;
+    height: 550px;
+    padding: 10px;
+  }
+  
+  .kiri {
+    border: 5px solid orangered;
+  
+    height: 100px;
+    background-color:green;
+    margin: 5px;
+    color:aliceblue
+  
+  }
+  
+  .tengah {
+    border: 5px solid blue;
+  
+    height: 100px;
+    background-color:red;
+    margin: 5px;
+    color:aliceblue;
+    text-align: center;
+  
+  }
+  
+  .kanan {
+    border: 5px solid greenyellow;
+  
+    height: 100px;
+    background-color: blue;
+    margin: 5px;
+    text-align:right;
+    color:aliceblue;
+  }
+  
+  .h1 {
+  text-align:center
+  
+  }
+  
+  .p {
+    text-align: justify;
+    text-transform:uppercase;
+    text-decoration:underline;
+    margin: 10px;
+  }
+  
+  .font {
+    font-size: 20px;
+    font-style: italic;
+  
+  }
+  
+  .size {
+    font-size: 50px;
+  }
+  
+  .merah {
+    background-color: red;
+    margin: 1px;
+  border: 2px solid black;
+  padding: 20px ;
+  width: 500px;
+  height: 500px;
+  } 
+  
+  .kuning {
+    background-color: yellow;
+    margin: 1px;
+    padding: 20px;
+    border: 2px solid black;
+    width: 400px;
+    height: 400px;
+  }
+  
+  .hijau {
+    background-color: greenyellow;
+    margin:1px;
+    padding: 20px;
+    border: 2px dotted black;
+    width: 300px;
+    height: 300px;
+  }
+  
+  .orange {
+    background-color: orange;
+    padding: 20px;
+    margin: 1px;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+  }
+  .biru {
+    background-color: cyan;
+    padding: 20px;
+    margin: 1px;
+    border: 2px dotted black;
+    width: 100px;
+    height: 100px; 
+  }

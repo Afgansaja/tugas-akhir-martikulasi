@@ -1,0 +1,44 @@
+.name{
+    color: blueviolet;
+    font-size: 80px;
+ }
+ 
+   .afgam{
+    color: bisque;
+    font-size: 40px;
+    text-align: center;
+}
+
+.margin{
+  background-color: blueviolet ;
+  border: 7px;
+  color: black;
+  border-style: solid;
+  width: 250px;
+  height: 150px;
+  margin-bottom: 25px;
+}
+.padding{
+  background-color: blueviolet ;
+  border: 7px;
+  background-image: url(./asset/images.jpg);
+  border-style: solid;
+  width: 250px;
+  height: 150px;
+}
+.box{
+  display: flex; 
+  gap: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
